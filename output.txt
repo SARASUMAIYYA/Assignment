@@ -1,0 +1,1533 @@
+input_file.xlsx
+input_file.xlsx(application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) - 71285 bytes, last modified: 1/14/2024 - 100% done
+Saving input_file.xlsx to input_file (1).xlsx
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AGeX, WaMhaW REGerM PeWa (Active) worked on 2023-09-13 15:30:29, previous time: 2023-09-13 10:40:23
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AGeX, WaMhaW REGerM PeWa (Active) worked on 2023-09-18 14:29:00, previous time: 2023-09-18 09:55:16
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AGeX, WaMhaW REGerM PeWa (Active) worked on 2023-09-19 15:00:47, previous time: 2023-09-19 10:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AGeX, WaMhaW REGerM PeWa (Active) worked on 2023-09-20 15:30:49, previous time: 2023-09-20 10:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AGeX, WaMhaW REGerM PeWa (Active) worked on 2023-09-21 15:00:55, previous time: 2023-09-21 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-10 06:00:00, previous time: 2023-09-10 01:08:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-13 06:30:43, previous time: 2023-09-13 01:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-14 07:10:00, previous time: 2023-09-14 02:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-18 04:00:00, previous time: 2023-09-16 23:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-20 01:12:00, previous time: 2023-09-18 23:20:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-21 04:20:00, previous time: 2023-09-20 23:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXcEcer, ECar JesAs (Active) worked on 2023-09-22 04:36:00, previous time: 2023-09-21 23:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-10 15:26:54, previous time: 2023-09-10 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-11 15:00:19, previous time: 2023-09-11 10:24:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-12 15:45:00, previous time: 2023-09-12 10:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-13 15:30:00, previous time: 2023-09-13 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-14 15:00:42, previous time: 2023-09-14 10:15:24
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-17 15:30:00, previous time: 2023-09-17 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-19 15:00:00, previous time: 2023-09-19 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-20 15:31:00, previous time: 2023-09-20 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-21 14:35:39, previous time: 2023-09-21 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: AXvarez, Edgar (Active) worked on 2023-09-22 15:20:15, previous time: 2023-09-22 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-10 15:00:11, previous time: 2023-09-10 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-11 15:00:16, previous time: 2023-09-11 10:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-13 15:30:22, previous time: 2023-09-13 10:50:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-14 15:00:46, previous time: 2023-09-14 10:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-17 15:30:23, previous time: 2023-09-17 10:36:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 09:55:45
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-19 15:00:07, previous time: 2023-09-19 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-20 15:30:54, previous time: 2023-09-20 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArCeWMa FXEres, JEWaMhaW (Active) worked on 2023-09-21 15:30:04, previous time: 2023-09-21 10:06:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:19:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-12 15:00:33, previous time: 2023-09-12 10:26:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-14 10:46:00, previous time: 2023-09-13 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-14 15:00:16, previous time: 2023-09-14 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-15 15:00:56, previous time: 2023-09-15 10:50:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArEsMigAi, AXexaWder (Active) worked on 2023-09-20 15:30:22, previous time: 2023-09-20 10:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-10 05:29:00, previous time: 2023-09-10 01:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-11 04:55:00, previous time: 2023-09-11 01:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-14 06:10:00, previous time: 2023-09-14 02:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-16 06:02:00, previous time: 2023-09-16 02:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-17 06:00:00, previous time: 2023-09-17 01:20:30
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-18 03:36:00, previous time: 2023-09-18 00:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-22 01:21:00, previous time: 2023-09-20 23:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-22 06:18:00, previous time: 2023-09-22 01:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArevaXE, JEse (Active) worked on 2023-09-23 06:29:00, previous time: 2023-09-23 02:23:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-10 05:57:00, previous time: 2023-09-10 02:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-11 05:48:00, previous time: 2023-09-11 00:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-13 05:34:00, previous time: 2023-09-13 01:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-14 05:20:00, previous time: 2023-09-14 01:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-17 04:46:00, previous time: 2023-09-16 23:26:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-18 04:43:00, previous time: 2023-09-17 23:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-19 04:04:00, previous time: 2023-09-18 23:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-20 03:41:15, previous time: 2023-09-19 23:20:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Arias, FeXipe (Active) worked on 2023-09-21 07:36:00, previous time: 2023-09-21 02:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArrAMia, AXexis ArMArE (Active) worked on 2023-09-10 15:00:44, previous time: 2023-09-10 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArrAMia, AXexis ArMArE (Active) worked on 2023-09-12 15:00:54, previous time: 2023-09-12 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArrAMia, AXexis ArMArE (Active) worked on 2023-09-17 15:00:02, previous time: 2023-09-17 09:55:53
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ArrAMia, AXexis ArMArE (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-10 15:27:03, previous time: 2023-09-10 10:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-12 10:47:00, previous time: 2023-09-11 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-13 15:55:00, previous time: 2023-09-13 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-17 15:00:07, previous time: 2023-09-17 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-19 15:27:00, previous time: 2023-09-19 10:32:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-20 15:00:00, previous time: 2023-09-20 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-22 16:00:26, previous time: 2023-09-22 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CAevas ZavaXa, JErge XAis (Active) worked on 2023-09-23 15:06:00, previous time: 2023-09-23 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-10 18:30:39, previous time: 2023-09-10 15:30:26
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-13 10:30:45, previous time: 2023-09-13 05:30:37
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-14 14:30:23, previous time: 2023-09-13 10:30:45
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-14 18:30:31, previous time: 2023-09-14 14:30:23
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-15 17:30:00, previous time: 2023-09-15 13:30:39
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-16 16:30:49, previous time: 2023-09-16 11:30:30
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-17 17:30:51, previous time: 2023-09-17 13:30:46
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-20 10:30:17, previous time: 2023-09-20 05:30:05
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-21 13:30:32, previous time: 2023-09-20 10:30:17
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEMMa, Jessica (Active) worked on 2023-09-21 18:00:00, previous time: 2023-09-21 13:30:32
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-10 15:00:49, previous time: 2023-09-10 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-11 15:00:48, previous time: 2023-09-11 10:16:39
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-12 15:00:00, previous time: 2023-09-12 10:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-15 15:00:42, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-16 15:00:48, previous time: 2023-09-16 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-17 15:00:46, previous time: 2023-09-17 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-19 15:30:41, previous time: 2023-09-19 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-20 15:30:21, previous time: 2023-09-20 10:53:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CErMes, DEAgXas Farid (Active) worked on 2023-09-22 16:00:10, previous time: 2023-09-22 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-10 06:30:00, previous time: 2023-09-10 02:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-11 06:00:00, previous time: 2023-09-11 01:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-14 08:00:00, previous time: 2023-09-14 00:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-16 06:00:00, previous time: 2023-09-16 01:26:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-17 03:55:00, previous time: 2023-09-16 23:23:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-18 04:30:00, previous time: 2023-09-18 00:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-21 23:40:00, previous time: 2023-09-20 22:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-22 04:00:28, previous time: 2023-09-21 23:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CEreira Jr, JEse (Active) worked on 2023-09-23 05:30:27, previous time: 2023-09-23 01:54:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-12 15:00:54, previous time: 2023-09-12 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-13 15:00:00, previous time: 2023-09-13 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-14 15:00:40, previous time: 2023-09-14 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-15 15:00:19, previous time: 2023-09-15 10:32:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:29:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-20 15:30:15, previous time: 2023-09-20 10:32:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-21 15:00:55, previous time: 2023-09-21 09:54:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMXEck, CEhaCCed (Active) worked on 2023-09-22 15:00:01, previous time: 2023-09-22 10:34:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-11 13:30:00, previous time: 2023-09-11 09:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-11 19:01:00, previous time: 2023-09-11 13:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-12 14:00:00, previous time: 2023-09-12 09:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-13 13:30:00, previous time: 2023-09-13 09:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-18 14:09:00, previous time: 2023-09-18 09:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-19 13:41:00, previous time: 2023-09-19 08:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-20 18:32:00, previous time: 2023-09-20 09:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-21 13:31:00, previous time: 2023-09-21 09:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaMaXaWE, CeghaW (Active) worked on 2023-09-22 13:30:00, previous time: 2023-09-22 09:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-10 15:23:10, previous time: 2023-09-10 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-11 15:00:52, previous time: 2023-09-11 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-13 15:00:58, previous time: 2023-09-13 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-15 16:02:58, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-16 15:30:11, previous time: 2023-09-16 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-17 15:00:29, previous time: 2023-09-17 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-20 15:30:24, previous time: 2023-09-20 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-21 15:20:42, previous time: 2023-09-21 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaXdEWadE, AXfEWsE (Active) worked on 2023-09-22 15:00:28, previous time: 2023-09-22 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CarMer, XyWWeXX DejAaW Jr (Active) worked on 2023-09-10 15:00:55, previous time: 2023-09-10 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaraGiXXa, AWMhEWy (Active) worked on 2023-09-10 15:00:00, previous time: 2023-09-10 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaraGiXXa, AWMhEWy (Active) worked on 2023-09-17 15:00:56, previous time: 2023-09-17 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CaraGiXXa, AWMhEWy (Active) worked on 2023-09-19 15:00:46, previous time: 2023-09-19 10:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-11 15:00:32, previous time: 2023-09-11 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-12 15:00:28, previous time: 2023-09-12 10:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-14 15:00:12, previous time: 2023-09-14 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-15 15:00:13, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-16 15:00:03, previous time: 2023-09-16 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-17 13:30:45, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 10:06:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Caxies, MerreXX (Active) worked on 2023-09-22 15:00:07, previous time: 2023-09-22 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-10 05:30:00, previous time: 2023-09-10 00:50:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-11 05:05:00, previous time: 2023-09-11 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-12 05:19:00, previous time: 2023-09-12 00:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-13 05:30:00, previous time: 2023-09-13 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-16 05:50:00, previous time: 2023-09-16 01:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-17 07:29:36, previous time: 2023-09-17 01:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-20 04:30:30, previous time: 2023-09-19 23:45:46
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CcRAWWeX, REWaXd Xee (Active) worked on 2023-09-23 06:00:56, previous time: 2023-09-23 01:47:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeWdEza, Erik (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeWdEza, Erik (Active) worked on 2023-09-15 14:30:56, previous time: 2023-09-15 10:50:50
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeWdEza, Erik (Active) worked on 2023-09-16 15:00:02, previous time: 2023-09-16 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeciWa, SiXvesMre Jr (Active) worked on 2023-09-13 15:30:00, previous time: 2023-09-13 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeciWa, SiXvesMre Jr (Active) worked on 2023-09-14 15:00:11, previous time: 2023-09-14 10:15:06
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeciWa, SiXvesMre Jr (Active) worked on 2023-09-15 14:30:07, previous time: 2023-09-15 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeciWa, SiXvesMre Jr (Active) worked on 2023-09-21 10:40:28, previous time: 2023-09-20 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CeciWa, SiXvesMre Jr (Active) worked on 2023-09-21 15:00:34, previous time: 2023-09-21 10:40:28
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-11 15:00:43, previous time: 2023-09-11 10:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-12 15:00:35, previous time: 2023-09-12 10:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-13 15:00:59, previous time: 2023-09-13 10:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-14 15:30:25, previous time: 2023-09-14 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-16 15:30:25, previous time: 2023-09-16 10:29:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-20 15:30:50, previous time: 2023-09-20 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-21 16:00:09, previous time: 2023-09-21 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, CrisMiaW (Active) worked on 2023-09-22 15:00:21, previous time: 2023-09-22 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-11 15:00:51, previous time: 2023-09-11 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-12 15:00:28, previous time: 2023-09-12 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-13 15:00:57, previous time: 2023-09-13 10:27:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-15 15:30:57, previous time: 2023-09-15 10:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-16 15:00:45, previous time: 2023-09-16 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-18 15:25:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-19 15:30:55, previous time: 2023-09-19 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-20 15:30:00, previous time: 2023-09-20 10:29:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CercadE, SaAX (Active) worked on 2023-09-22 15:20:47, previous time: 2023-09-22 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-13 10:15:00, previous time: 2023-09-12 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-13 15:25:00, previous time: 2023-09-13 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-14 15:00:58, previous time: 2023-09-14 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-15 15:00:15, previous time: 2023-09-15 10:16:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-20 10:40:19, previous time: 2023-09-16 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-20 15:30:27, previous time: 2023-09-20 10:40:19
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CesiWa CEreWE, KeviW FaGiaW (Active) worked on 2023-09-22 15:00:00, previous time: 2023-09-22 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-10 15:00:39, previous time: 2023-09-10 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-12 15:00:48, previous time: 2023-09-12 10:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-13 15:30:49, previous time: 2023-09-13 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-14 16:15:48, previous time: 2023-09-14 10:47:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-15 15:00:28, previous time: 2023-09-15 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-16 15:00:58, previous time: 2023-09-16 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-20 15:30:49, previous time: 2023-09-20 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ChaCErE, HEXger CarMiWez (Active) worked on 2023-09-21 15:00:10, previous time: 2023-09-21 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CharXes, EGadiah SEraccE Jr (Active) worked on 2023-09-11 05:30:00, previous time: 2023-09-11 02:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CharXes, EGadiah SEraccE Jr (Active) worked on 2023-09-16 06:58:00, previous time: 2023-09-16 01:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CharXes, EGadiah SEraccE Jr (Active) worked on 2023-09-18 08:00:00, previous time: 2023-09-16 06:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CiGriaW DeXgadE, EXeWa S (Active) worked on 2023-09-11 15:00:55, previous time: 2023-09-11 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CiGriaW DeXgadE, EXeWa S (Active) worked on 2023-09-13 15:30:14, previous time: 2023-09-13 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CiGriaW DeXgadE, EXeWa S (Active) worked on 2023-09-22 10:45:00, previous time: 2023-09-21 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: CiGriaW DeXgadE, EXeWa S (Active) worked on 2023-09-22 16:10:38, previous time: 2023-09-22 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-10 15:00:57, previous time: 2023-09-10 10:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-13 15:00:10, previous time: 2023-09-13 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-14 15:00:51, previous time: 2023-09-14 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-15 15:00:56, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-17 15:00:02, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-18 15:33:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DECiWgAez AviWa, CigAeX AWgeX (Active) worked on 2023-09-19 15:00:08, previous time: 2023-09-19 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-11 15:00:05, previous time: 2023-09-11 10:15:57
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-12 15:00:30, previous time: 2023-09-12 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-14 15:00:17, previous time: 2023-09-14 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 10:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-20 15:30:57, previous time: 2023-09-20 10:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De XEs SaWMEs, JEseph XAis (Active) worked on 2023-09-22 15:00:25, previous time: 2023-09-22 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-10 15:00:52, previous time: 2023-09-10 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-11 12:30:00, previous time: 2023-09-11 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-15 12:30:00, previous time: 2023-09-15 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-16 15:00:27, previous time: 2023-09-16 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-17 15:00:00, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-18 12:30:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-21 14:30:00, previous time: 2023-09-21 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-22 15:00:24, previous time: 2023-09-22 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: De Xa Cerda, IgWaciE (Active) worked on 2023-09-23 12:30:00, previous time: 2023-09-23 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-10 05:30:00, previous time: 2023-09-10 01:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-11 06:00:00, previous time: 2023-09-11 01:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-12 05:30:00, previous time: 2023-09-12 00:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-13 07:00:00, previous time: 2023-09-13 02:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-14 07:00:00, previous time: 2023-09-14 02:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-19 02:57:00, previous time: 2023-09-17 23:27:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-19 07:00:00, previous time: 2023-09-19 02:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-20 06:30:00, previous time: 2023-09-20 02:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DeXgadiXXE REdarMe, ChrisMiaW S (Active) worked on 2023-09-21 05:30:00, previous time: 2023-09-21 00:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-12 14:50:00, previous time: 2023-09-12 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-14 14:36:00, previous time: 2023-09-14 10:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-15 14:30:22, previous time: 2023-09-15 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-16 15:00:00, previous time: 2023-09-16 09:53:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-18 15:25:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-19 15:03:00, previous time: 2023-09-19 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-21 14:55:00, previous time: 2023-09-21 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiWh, DaA (Active) worked on 2023-09-22 14:45:00, previous time: 2023-09-22 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-10 15:00:34, previous time: 2023-09-10 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-12 15:00:25, previous time: 2023-09-12 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-13 15:00:21, previous time: 2023-09-13 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-14 15:00:16, previous time: 2023-09-14 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-17 15:00:00, previous time: 2023-09-17 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 10:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-19 15:00:09, previous time: 2023-09-19 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-20 15:00:51, previous time: 2023-09-20 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: DiXXard, JEwaWW Cedric (Active) worked on 2023-09-21 15:20:57, previous time: 2023-09-21 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-10 15:00:39, previous time: 2023-09-10 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-12 15:00:06, previous time: 2023-09-12 10:25:59
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-13 15:00:30, previous time: 2023-09-13 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-15 15:00:25, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-16 15:00:38, previous time: 2023-09-16 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-17 15:00:47, previous time: 2023-09-17 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:50:44
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-20 15:30:06, previous time: 2023-09-20 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Diaz GaXvez, RicardE JEsAe (Active) worked on 2023-09-22 15:00:03, previous time: 2023-09-22 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-11 15:00:58, previous time: 2023-09-11 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-13 15:00:36, previous time: 2023-09-13 10:10:00
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-13 15:00:36 to 2023-09-15 10:36:00
+Condition: 7 consecutive days
+Details: EXivares, FeXCaW (Active) worked from 2023-09-13 15:00:36 to 2023-09-15 10:36:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-15 15:00:28, previous time: 2023-09-15 10:36:00
+Condition: 7 consecutive days
+Details: EXivares, FeXCaW (Active) worked from 2023-09-15 10:36:00 to 2023-09-15 15:00:28
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-15 15:00:28 to 2023-09-16 10:41:00
+Condition: 7 consecutive days
+Details: EXivares, FeXCaW (Active) worked from 2023-09-15 15:00:28 to 2023-09-16 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-16 13:30:54, previous time: 2023-09-16 10:41:00
+Condition: 7 consecutive days
+Details: EXivares, FeXCaW (Active) worked from 2023-09-16 10:41:00 to 2023-09-16 13:30:54
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-16 13:30:54 to 2023-09-18 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 09:58:00
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-18 15:00:00 to 2023-09-19 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-19 15:00:44, previous time: 2023-09-19 10:40:00
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-19 15:00:44 to 2023-09-20 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-20 15:30:03, previous time: 2023-09-20 10:30:00
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-20 15:30:03 to 2023-09-21 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-21 15:00:32, previous time: 2023-09-21 10:40:00
+Condition: More than 14 hours in a single shift
+Details: EXivares, FeXCaW (Active) worked starting from 2023-09-21 15:00:32 to 2023-09-22 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EXivares, FeXCaW (Active) worked on 2023-09-22 16:00:28, previous time: 2023-09-22 10:41:00
+Condition: More than 14 hours in a single shift
+Details: EasMCaW, CichaeX (Active) worked starting from 2023-09-22 16:00:28 to 2023-09-10 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-10 14:37:00, previous time: 2023-09-10 10:11:00
+Condition: More than 14 hours in a single shift
+Details: EasMCaW, CichaeX (Active) worked starting from 2023-09-10 14:37:00 to 2023-09-11 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-11 14:48:00, previous time: 2023-09-11 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-14 14:38:00, previous time: 2023-09-14 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-15 15:02:00, previous time: 2023-09-15 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-16 15:03:00, previous time: 2023-09-16 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-17 14:40:00, previous time: 2023-09-17 10:47:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-18 14:16:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-22 13:48:39, previous time: 2023-09-22 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EasMCaW, CichaeX (Active) worked on 2023-09-23 14:08:00, previous time: 2023-09-23 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-13 02:35:22, previous time: 2023-09-12 01:05:01
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-13 06:30:00, previous time: 2023-09-13 02:35:22
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-17 07:30:00, previous time: 2023-09-17 03:07:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-20 05:00:49, previous time: 2023-09-20 00:27:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-21 03:12:50, previous time: 2023-09-20 23:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-22 03:30:21, previous time: 2023-09-21 23:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEpeza, JEvaW (Active) worked on 2023-09-23 06:30:00, previous time: 2023-09-23 02:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-12 06:48:00, previous time: 2023-09-12 01:50:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-13 06:47:00, previous time: 2023-09-13 01:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-14 06:30:00, previous time: 2023-09-14 01:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-16 06:58:00, previous time: 2023-09-16 01:34:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-19 06:30:00, previous time: 2023-09-19 01:45:12
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-20 06:00:33, previous time: 2023-09-20 01:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErEzcE, SaAX (Active) worked on 2023-09-22 04:05:00, previous time: 2023-09-21 23:23:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-10 15:23:00, previous time: 2023-09-10 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-11 15:24:00, previous time: 2023-09-11 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-12 15:25:00, previous time: 2023-09-12 10:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-15 16:02:00, previous time: 2023-09-15 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-16 15:30:48, previous time: 2023-09-16 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-17 15:00:19, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-18 15:12:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-21 15:31:00, previous time: 2023-09-21 10:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-22 15:05:00, previous time: 2023-09-22 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ErMiz, AGigaiX (Active) worked on 2023-09-23 15:55:00, previous time: 2023-09-23 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-10 06:07:00, previous time: 2023-09-10 02:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-11 07:00:00, previous time: 2023-09-11 02:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-12 06:30:00, previous time: 2023-09-12 02:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-17 06:30:00, previous time: 2023-09-17 03:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-18 06:01:00, previous time: 2023-09-18 02:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-20 02:20:54, previous time: 2023-09-19 00:26:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-20 07:09:06, previous time: 2023-09-20 02:20:54
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-22 06:03:16, previous time: 2023-09-22 00:47:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: EsMrada, JEse FeXix (Active) worked on 2023-09-23 05:30:00, previous time: 2023-09-23 00:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FaGiaW CiraWda, JEse (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:20:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FaGiaW CiraWda, JEse (Active) worked on 2023-09-17 10:05:00, previous time: 2023-09-16 08:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FaGiaW CiraWda, JEse (Active) worked on 2023-09-17 15:00:43, previous time: 2023-09-17 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FaGiaW CiraWda, JEse (Active) worked on 2023-09-21 15:00:52, previous time: 2023-09-21 10:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-10 04:45:00, previous time: 2023-09-10 00:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-11 04:45:00, previous time: 2023-09-11 00:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-14 04:45:00, previous time: 2023-09-14 00:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-16 04:45:00, previous time: 2023-09-16 00:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-16 09:30:00, previous time: 2023-09-16 04:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-17 06:30:00, previous time: 2023-09-17 01:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-18 04:00:09, previous time: 2023-09-17 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-21 03:45:00, previous time: 2023-09-20 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-22 03:45:00, previous time: 2023-09-21 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: FeXix, XeEWeX (Active) worked on 2023-09-23 03:45:00, previous time: 2023-09-22 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-10 05:30:00, previous time: 2023-09-10 00:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-12 06:30:00, previous time: 2023-09-12 01:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-13 07:23:00, previous time: 2023-09-13 02:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-16 06:30:00, previous time: 2023-09-16 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-17 07:15:00, previous time: 2023-09-17 01:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-19 07:30:00, previous time: 2023-09-19 02:45:26
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAMierrez, PedrE CigAeX (Active) worked on 2023-09-23 04:50:00, previous time: 2023-09-22 23:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-10 05:30:00, previous time: 2023-09-10 00:54:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-11 06:00:00, previous time: 2023-09-11 01:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-12 06:00:00, previous time: 2023-09-12 01:32:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-13 07:00:00, previous time: 2023-09-13 01:34:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-14 06:30:00, previous time: 2023-09-14 01:34:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-17 04:00:00, previous time: 2023-09-16 23:24:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-18 06:00:00, previous time: 2023-09-18 01:04:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-19 04:30:00, previous time: 2023-09-18 23:15:20
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-20 07:30:00, previous time: 2023-09-20 02:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-21 07:53:00, previous time: 2023-09-21 02:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GAeWdia, JAaW CarXEs (Active) worked on 2023-09-23 04:25:00, previous time: 2023-09-22 23:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-10 15:15:00, previous time: 2023-09-10 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-12 14:55:00, previous time: 2023-09-12 10:22:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-13 15:37:00, previous time: 2023-09-13 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-14 15:10:00, previous time: 2023-09-14 10:19:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-17 16:00:00, previous time: 2023-09-17 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-19 15:20:00, previous time: 2023-09-19 10:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-20 15:00:00, previous time: 2023-09-20 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaWks, GryaW (Active) worked on 2023-09-21 15:15:00, previous time: 2023-09-21 10:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-15 12:00:02, previous time: 2023-09-15 08:00:55
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-16 12:30:02, previous time: 2023-09-16 08:30:56
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-16 15:30:11, previous time: 2023-09-16 12:30:02
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-17 12:30:18, previous time: 2023-09-17 08:30:11
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-18 12:30:25, previous time: 2023-09-18 08:29:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-22 13:00:10, previous time: 2023-09-22 08:00:59
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GaXCes, EXias XEpez (Active) worked on 2023-09-22 17:30:17, previous time: 2023-09-22 13:00:10
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-10 15:00:00, previous time: 2023-09-10 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-11 15:00:53, previous time: 2023-09-11 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-13 15:30:34, previous time: 2023-09-13 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-14 15:00:23, previous time: 2023-09-14 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-17 15:00:59, previous time: 2023-09-17 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-19 15:00:57, previous time: 2023-09-19 10:06:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-20 15:00:51, previous time: 2023-09-20 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GarWes, JAsMiW (Active) worked on 2023-09-21 15:15:02, previous time: 2023-09-21 09:54:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-10 14:45:14, previous time: 2023-09-10 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-11 15:00:20, previous time: 2023-09-11 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-12 15:00:10, previous time: 2023-09-12 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-14 15:00:12, previous time: 2023-09-14 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-17 15:00:02, previous time: 2023-09-17 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: GrACfieXd, CErWeXiAs (Active) worked on 2023-09-21 15:00:36, previous time: 2023-09-21 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HAWMer, ViWceWM De PaAX (Active) worked on 2023-09-12 07:30:00, previous time: 2023-09-12 02:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HAWMer, ViWceWM De PaAX (Active) worked on 2023-09-16 08:00:00, previous time: 2023-09-13 01:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HAWMer, ViWceWM De PaAX (Active) worked on 2023-09-22 04:00:02, previous time: 2023-09-21 23:29:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-10 15:00:30, previous time: 2023-09-10 10:41:25
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-11 15:00:11, previous time: 2023-09-11 10:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-13 15:30:39, previous time: 2023-09-13 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-17 15:30:35, previous time: 2023-09-17 11:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-19 15:30:34, previous time: 2023-09-19 10:51:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HEGGie ErMega, SeGasMiaW CichaeX (Active) worked on 2023-09-21 16:00:34, previous time: 2023-09-21 10:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-14 15:47:28, previous time: 2023-09-14 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-15 15:22:40, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-16 16:05:21, previous time: 2023-09-16 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-21 15:30:00, previous time: 2023-09-21 10:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-21 18:45:00, previous time: 2023-09-21 15:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HaCiXMEW, DeaWMe DevEW (Active) worked on 2023-09-22 15:49:00, previous time: 2023-09-22 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-12 15:00:25, previous time: 2023-09-12 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-13 15:00:07, previous time: 2023-09-13 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-14 15:00:00, previous time: 2023-09-14 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-15 15:00:51, previous time: 2023-09-15 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-16 15:00:31, previous time: 2023-09-16 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-19 15:00:24, previous time: 2023-09-19 10:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-20 15:00:31, previous time: 2023-09-20 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-21 15:25:34, previous time: 2023-09-21 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerCEsiXXE, PedrE (Active) worked on 2023-09-22 15:30:08, previous time: 2023-09-22 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-10 15:00:57, previous time: 2023-09-10 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-12 15:00:00, previous time: 2023-09-12 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-14 15:00:58, previous time: 2023-09-14 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-15 15:00:16, previous time: 2023-09-15 10:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-16 15:00:51, previous time: 2023-09-16 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-17 15:00:00, previous time: 2023-09-17 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-19 15:00:57, previous time: 2023-09-19 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-20 15:30:13, previous time: 2023-09-20 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: HerWaWdez SaWchez, AWdrew AWMhEWy (Active) worked on 2023-09-22 15:00:06, previous time: 2023-09-22 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-11 05:56:00, previous time: 2023-09-11 02:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-12 05:30:00, previous time: 2023-09-12 02:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-17 06:00:00, previous time: 2023-09-17 01:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-22 02:24:00, previous time: 2023-09-18 23:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-22 05:43:58, previous time: 2023-09-22 02:24:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: IWGEAa, JeffersEW (Active) worked on 2023-09-23 04:00:00, previous time: 2023-09-23 01:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-10 15:04:00, previous time: 2023-09-10 10:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-12 15:00:05, previous time: 2023-09-12 10:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-13 15:30:00, previous time: 2023-09-13 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-14 16:04:13, previous time: 2023-09-14 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-16 15:30:02, previous time: 2023-09-16 10:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-17 15:00:14, previous time: 2023-09-17 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: JerEWiCE CEraXes, CarXEs D (Active) worked on 2023-09-18 14:42:00, previous time: 2023-09-18 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAake, CasiaWE (Active) worked on 2023-09-12 06:30:00, previous time: 2023-09-12 01:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAake, CasiaWE (Active) worked on 2023-09-13 07:00:22, previous time: 2023-09-13 02:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAake, CasiaWE (Active) worked on 2023-09-16 05:30:00, previous time: 2023-09-16 00:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAake, CasiaWE (Active) worked on 2023-09-22 07:00:02, previous time: 2023-09-22 02:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAake, CasiaWE (Active) worked on 2023-09-23 04:30:24, previous time: 2023-09-22 23:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-12 15:00:16, previous time: 2023-09-12 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-13 15:20:00, previous time: 2023-09-13 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-14 15:17:00, previous time: 2023-09-14 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-15 15:20:02, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-16 15:01:00, previous time: 2023-09-16 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-19 15:00:28, previous time: 2023-09-19 10:06:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-20 15:08:00, previous time: 2023-09-20 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-21 15:35:00, previous time: 2023-09-21 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MAcker, CichaeX (Active) worked on 2023-09-23 15:12:00, previous time: 2023-09-23 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-13 15:16:00, previous time: 2023-09-13 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-14 15:17:00, previous time: 2023-09-14 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-15 15:20:00, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-21 15:35:00, previous time: 2023-09-21 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-22 15:20:21, previous time: 2023-09-22 10:02:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MaXeGi, ACirCasEAd (Active) worked on 2023-09-23 15:12:00, previous time: 2023-09-23 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-10 14:57:00, previous time: 2023-09-10 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-11 15:15:00, previous time: 2023-09-11 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-15 14:30:14, previous time: 2023-09-15 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-18 14:29:00, previous time: 2023-09-18 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-22 15:00:00, previous time: 2023-09-22 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Merrazas, GriaW (Active) worked on 2023-09-23 13:03:00, previous time: 2023-09-23 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-10 14:30:51, previous time: 2023-09-10 09:30:37
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-11 17:00:48, previous time: 2023-09-11 12:00:42
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-12 19:30:52, previous time: 2023-09-12 14:30:03
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-13 19:00:22, previous time: 2023-09-13 14:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-14 13:00:10, previous time: 2023-09-14 08:30:05
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-17 14:00:00, previous time: 2023-09-17 09:00:48
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-18 19:30:10, previous time: 2023-09-18 14:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-19 19:00:20, previous time: 2023-09-19 14:00:10
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-20 19:00:57, previous time: 2023-09-20 14:00:47
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-21 13:00:42, previous time: 2023-09-21 08:00:11
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: MraW, WiXXiaC Ha (Active) worked on 2023-09-21 18:00:05, previous time: 2023-09-21 13:00:42
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaAXE, KyXe (Active) worked on 2023-09-12 15:00:51, previous time: 2023-09-12 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaAXE, KyXe (Active) worked on 2023-09-13 15:00:04, previous time: 2023-09-13 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaAXE, KyXe (Active) worked on 2023-09-18 14:22:00, previous time: 2023-09-18 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaAXE, KyXe (Active) worked on 2023-09-19 15:30:27, previous time: 2023-09-19 10:51:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaAXE, KyXe (Active) worked on 2023-09-20 15:30:00, previous time: 2023-09-20 12:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-10 06:00:00, previous time: 2023-09-10 01:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-13 05:29:37, previous time: 2023-09-13 01:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-14 05:43:00, previous time: 2023-09-14 02:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-16 06:10:00, previous time: 2023-09-16 01:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-17 05:15:00, previous time: 2023-09-17 01:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-20 06:46:00, previous time: 2023-09-20 01:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-21 05:31:00, previous time: 2023-09-21 01:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PaXaciE, JEWaMhaW (Active) worked on 2023-09-22 05:50:00, previous time: 2023-09-22 01:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-12 07:00:00, previous time: 2023-09-12 02:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-13 07:17:00, previous time: 2023-09-13 02:25:29
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-14 07:11:00, previous time: 2023-09-14 02:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-20 07:30:23, previous time: 2023-09-20 02:16:10
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-21 06:30:00, previous time: 2023-09-21 01:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-22 06:30:00, previous time: 2023-09-22 01:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PayaW, DaWieX (Active) worked on 2023-09-23 07:28:13, previous time: 2023-09-23 02:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-10 15:00:27, previous time: 2023-09-10 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-11 15:00:47, previous time: 2023-09-11 10:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-13 15:00:10, previous time: 2023-09-13 10:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-16 15:00:59, previous time: 2023-09-16 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-17 15:00:48, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-18 14:57:00, previous time: 2023-09-18 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-19 15:00:53, previous time: 2023-09-19 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Perez, EdwiW JiCeWez (Active) worked on 2023-09-20 15:00:04, previous time: 2023-09-20 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-11 05:30:00, previous time: 2023-09-11 01:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-13 08:20:00, previous time: 2023-09-13 02:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-18 05:30:00, previous time: 2023-09-18 00:22:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-19 07:00:00, previous time: 2023-09-19 02:19:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-20 08:00:00, previous time: 2023-09-20 03:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-22 05:30:00, previous time: 2023-09-22 00:27:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: PerkiWs, MarraWce (Active) worked on 2023-09-23 05:50:53, previous time: 2023-09-23 01:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-11 15:00:11, previous time: 2023-09-11 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-12 15:00:31, previous time: 2023-09-12 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-13 15:00:07, previous time: 2023-09-13 10:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-14 15:00:22, previous time: 2023-09-14 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-15 15:00:35, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-17 15:00:33, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-20 15:30:19, previous time: 2023-09-20 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-21 16:00:47, previous time: 2023-09-21 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RAvaXcaGa GaWAeXEs, DaWieX JesAs (Active) worked on 2023-09-22 14:30:10, previous time: 2023-09-22 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RECerE, SergiE (Active) worked on 2023-09-14 15:00:29, previous time: 2023-09-14 10:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, AXexis GAMierrez (Active) worked on 2023-09-15 15:00:32, previous time: 2023-09-15 10:50:28
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, AXexis GAMierrez (Active) worked on 2023-09-22 15:00:16, previous time: 2023-09-22 10:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-10 15:11:00, previous time: 2023-09-10 10:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-11 15:07:00, previous time: 2023-09-11 10:43:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-13 15:56:00, previous time: 2023-09-13 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-14 16:15:00, previous time: 2023-09-14 10:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-15 15:35:00, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-16 14:55:00, previous time: 2023-09-16 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-17 15:20:00, previous time: 2023-09-17 10:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-18 14:47:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-20 15:07:00, previous time: 2023-09-20 10:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-22 16:00:40, previous time: 2023-09-22 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, GraWdEW AWgeX (Active) worked on 2023-09-23 15:45:00, previous time: 2023-09-23 10:04:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-14 02:38:00, previous time: 2023-09-11 01:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-14 06:15:00, previous time: 2023-09-14 02:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-16 07:00:00, previous time: 2023-09-16 02:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-20 03:07:00, previous time: 2023-09-17 23:24:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-20 06:00:38, previous time: 2023-09-20 03:07:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-21 04:00:00, previous time: 2023-09-20 23:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, PedrE (Active) worked on 2023-09-22 06:00:00, previous time: 2023-09-22 02:22:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-10 15:00:58, previous time: 2023-09-10 10:10:11
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-11 15:00:58, previous time: 2023-09-11 10:51:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-12 15:00:13, previous time: 2023-09-12 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-14 15:00:01, previous time: 2023-09-14 10:49:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-15 15:00:00, previous time: 2023-09-15 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-16 15:30:32, previous time: 2023-09-16 10:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-19 15:00:00, previous time: 2023-09-19 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-21 16:00:52, previous time: 2023-09-21 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REdrigAez, XAis (Active) worked on 2023-09-22 16:00:10, previous time: 2023-09-22 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-12 14:23:00, previous time: 2023-09-12 10:08:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-13 14:50:00, previous time: 2023-09-13 10:08:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-14 15:00:52, previous time: 2023-09-14 10:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-15 15:11:00, previous time: 2023-09-15 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-16 15:20:39, previous time: 2023-09-16 09:51:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-19 14:26:00, previous time: 2023-09-19 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-20 14:42:00, previous time: 2023-09-20 09:54:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-21 14:33:00, previous time: 2023-09-21 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: REsaXiaWE, XAis (Active) worked on 2023-09-22 15:20:09, previous time: 2023-09-22 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-11 15:00:33, previous time: 2023-09-11 10:35:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-12 15:00:58, previous time: 2023-09-12 10:30:52
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-15 15:00:21, previous time: 2023-09-15 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-16 15:00:25, previous time: 2023-09-16 10:19:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-18 15:00:00, previous time: 2023-09-18 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-20 15:00:47, previous time: 2023-09-20 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-21 15:00:27, previous time: 2023-09-21 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: RaCEs HerWaWdez, AdieX ECar (Active) worked on 2023-09-22 15:00:47, previous time: 2023-09-22 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Rivera AXcaWMar, GrayaW (Active) worked on 2023-09-12 15:00:21, previous time: 2023-09-12 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Rivera AXcaWMar, GrayaW (Active) worked on 2023-09-15 15:00:54, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Rivera AXcaWMar, GrayaW (Active) worked on 2023-09-16 15:00:51, previous time: 2023-09-16 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Rivera AXcaWMar, GrayaW (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Rivera AXcaWMar, GrayaW (Active) worked on 2023-09-22 16:00:03, previous time: 2023-09-22 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-10 15:13:00, previous time: 2023-09-10 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-13 15:14:00, previous time: 2023-09-13 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-14 15:15:00, previous time: 2023-09-14 10:33:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-16 14:41:00, previous time: 2023-09-16 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-17 14:48:00, previous time: 2023-09-17 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-18 14:31:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-19 15:04:00, previous time: 2023-09-19 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-20 15:18:00, previous time: 2023-09-20 10:33:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SMrickXaWd, REdWey EAgeWe (Active) worked on 2023-09-21 15:03:00, previous time: 2023-09-21 10:13:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez PaCpXEWa, CrisMiaW AXGerM (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:40:49
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez PaCpXEWa, CrisMiaW AXGerM (Active) worked on 2023-09-13 15:30:41, previous time: 2023-09-13 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez PaCpXEWa, CrisMiaW AXGerM (Active) worked on 2023-09-15 15:00:23, previous time: 2023-09-15 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez PaCpXEWa, CrisMiaW AXGerM (Active) worked on 2023-09-16 15:30:07, previous time: 2023-09-16 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez PaCpXEWa, CrisMiaW AXGerM (Active) worked on 2023-09-21 16:00:51, previous time: 2023-09-21 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-11 06:50:13, previous time: 2023-09-11 02:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-16 07:30:00, previous time: 2023-09-16 02:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-17 07:00:00, previous time: 2023-09-17 01:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-18 07:00:00, previous time: 2023-09-18 02:07:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-19 04:10:00, previous time: 2023-09-18 23:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SaWchez, ArWAXfE (Active) worked on 2023-09-23 04:30:44, previous time: 2023-09-22 23:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-12 06:15:00, previous time: 2023-09-12 01:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-13 06:15:48, previous time: 2023-09-13 01:09:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-16 06:30:00, previous time: 2023-09-16 01:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-18 06:00:00, previous time: 2023-09-18 01:25:34
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-21 07:00:00, previous time: 2023-09-21 02:21:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SavaWg, JEhW (Active) worked on 2023-09-22 05:40:00, previous time: 2023-09-22 00:37:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-10 15:00:51, previous time: 2023-09-10 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-12 15:00:00, previous time: 2023-09-12 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-13 15:00:18, previous time: 2023-09-13 10:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-14 15:00:40, previous time: 2023-09-14 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-15 15:00:48, previous time: 2023-09-15 10:10:42
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-16 15:00:08, previous time: 2023-09-16 10:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-19 15:00:16, previous time: 2023-09-19 10:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-20 15:00:07, previous time: 2023-09-20 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-21 15:00:06, previous time: 2023-09-21 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgXeMEW, REger (Active) worked on 2023-09-22 15:00:13, previous time: 2023-09-22 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, CaWpreeM (Active) worked on 2023-09-11 07:30:00, previous time: 2023-09-11 02:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, CaWpreeM (Active) worked on 2023-09-17 06:20:00, previous time: 2023-09-17 01:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, CaWpreeM (Active) worked on 2023-09-21 04:30:00, previous time: 2023-09-20 23:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, CaWpreeM (Active) worked on 2023-09-23 07:30:00, previous time: 2023-09-23 02:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-10 05:30:00, previous time: 2023-09-10 01:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-11 05:30:00, previous time: 2023-09-11 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-12 05:30:00, previous time: 2023-09-12 01:01:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-13 06:00:00, previous time: 2023-09-13 00:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-14 07:00:00, previous time: 2023-09-14 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-16 04:00:00, previous time: 2023-09-15 23:27:15
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-17 04:00:40, previous time: 2023-09-16 23:15:23
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-18 04:00:59, previous time: 2023-09-17 23:15:44
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-20 06:30:10, previous time: 2023-09-20 02:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, JaspreeM (Active) worked on 2023-09-21 06:58:00, previous time: 2023-09-21 03:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-11 14:30:50, previous time: 2023-09-11 10:30:43
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-12 12:30:04, previous time: 2023-09-12 08:30:57
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-13 13:00:47, previous time: 2023-09-13 08:30:41
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-14 12:30:18, previous time: 2023-09-14 08:30:13
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-15 12:30:23, previous time: 2023-09-15 08:30:12
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-16 12:30:13, previous time: 2023-09-16 09:30:02
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-16 15:30:57, previous time: 2023-09-16 12:30:13
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-19 13:00:05, previous time: 2023-09-19 09:30:56
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: SiWgh, MarAWpreeM (Active) worked on 2023-09-20 13:00:29, previous time: 2023-09-20 08:00:23
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-10 15:00:08, previous time: 2023-09-10 10:15:57
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-11 15:00:00, previous time: 2023-09-11 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-12 15:33:00, previous time: 2023-09-12 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-16 15:20:37, previous time: 2023-09-16 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-17 15:00:00, previous time: 2023-09-17 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-18 14:30:00, previous time: 2023-09-18 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-19 15:00:28, previous time: 2023-09-19 10:00:22
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-20 15:30:00, previous time: 2023-09-20 10:08:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Sparks, KeWWeMh (Active) worked on 2023-09-23 15:34:00, previous time: 2023-09-23 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VaXderraCa CasMiXXE, Escar FaGiaW (Active) worked on 2023-09-10 15:00:51, previous time: 2023-09-10 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VaXderraCa CasMiXXE, Escar FaGiaW (Active) worked on 2023-09-11 15:00:56, previous time: 2023-09-11 10:31:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VaXderraCa CasMiXXE, Escar FaGiaW (Active) worked on 2023-09-18 14:58:00, previous time: 2023-09-18 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VaXderraCa CasMiXXE, Escar FaGiaW (Active) worked on 2023-09-19 15:30:04, previous time: 2023-09-19 10:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VaXderraCa CasMiXXE, Escar FaGiaW (Active) worked on 2023-09-20 15:00:17, previous time: 2023-09-20 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-10 06:00:00, previous time: 2023-09-10 01:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-13 06:30:42, previous time: 2023-09-13 01:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-14 06:30:00, previous time: 2023-09-14 01:51:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-17 03:30:00, previous time: 2023-09-16 23:28:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-19 02:38:00, previous time: 2023-09-17 23:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-19 07:00:00, previous time: 2023-09-19 02:38:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, AXfredE (Active) worked on 2023-09-20 05:30:00, previous time: 2023-09-20 01:55:53
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, JEhW SeGasMiaW (Active) worked on 2023-09-11 06:32:00, previous time: 2023-09-11 02:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, JEhW SeGasMiaW (Active) worked on 2023-09-12 06:30:00, previous time: 2023-09-12 02:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, JEhW SeGasMiaW (Active) worked on 2023-09-16 06:26:00, previous time: 2023-09-16 02:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, JEhW SeGasMiaW (Active) worked on 2023-09-18 05:00:00, previous time: 2023-09-18 01:50:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: VasqAez, JEhW SeGasMiaW (Active) worked on 2023-09-22 05:30:00, previous time: 2023-09-22 01:47:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ViXXa, AXfredE AieXXE (Active) worked on 2023-09-14 05:30:00, previous time: 2023-09-14 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ViXXa, AXfredE AieXXE (Active) worked on 2023-09-16 06:05:00, previous time: 2023-09-16 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ViXXa, AXfredE AieXXE (Active) worked on 2023-09-18 07:00:00, previous time: 2023-09-18 02:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ViXXa, AXfredE AieXXE (Active) worked on 2023-09-22 05:00:00, previous time: 2023-09-22 00:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ViXXa, AXfredE AieXXE (Active) worked on 2023-09-23 07:00:00, previous time: 2023-09-23 02:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WgAyeW, RayCEWd (Active) worked on 2023-09-15 15:00:41, previous time: 2023-09-15 10:35:10
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WgAyeW, RayCEWd (Active) worked on 2023-09-18 15:25:00, previous time: 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WgAyeW, RayCEWd (Active) worked on 2023-09-19 15:00:36, previous time: 2023-09-19 10:25:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WgAyeW, RayCEWd (Active) worked on 2023-09-20 15:00:00, previous time: 2023-09-20 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WgAyeW, RayCEWd (Active) worked on 2023-09-21 15:00:01, previous time: 2023-09-21 09:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-10 06:06:00, previous time: 2023-09-10 02:48:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-11 06:30:00, previous time: 2023-09-11 02:18:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-12 07:00:00, previous time: 2023-09-12 02:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-16 02:40:00, previous time: 2023-09-13 01:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-16 07:50:00, previous time: 2023-09-16 02:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-17 06:30:00, previous time: 2023-09-17 02:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-18 06:00:00, previous time: 2023-09-18 01:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-19 07:00:00, previous time: 2023-09-19 02:35:05
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: WiXXiaCs, MyrreXX (Active) worked on 2023-09-20 04:32:40, previous time: 2023-09-19 23:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-10 07:30:00, previous time: 2023-09-10 03:05:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-11 05:00:00, previous time: 2023-09-11 01:15:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-12 05:30:00, previous time: 2023-09-12 00:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-13 05:30:48, previous time: 2023-09-13 00:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-14 05:30:00, previous time: 2023-09-14 00:56:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-17 06:00:00, previous time: 2023-09-17 01:24:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-18 07:30:00, previous time: 2023-09-18 02:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XEpez WAWez, XAis (Active) worked on 2023-09-20 05:00:19, previous time: 2023-09-19 23:32:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-11 15:00:28, previous time: 2023-09-11 10:42:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-12 15:00:27, previous time: 2023-09-12 10:39:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-14 15:00:15, previous time: 2023-09-14 10:45:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-15 15:35:18, previous time: 2023-09-15 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-17 15:30:11, previous time: 2023-09-17 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-18 14:33:00, previous time: 2023-09-18 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-19 15:30:41, previous time: 2023-09-19 10:44:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-21 16:00:50, previous time: 2023-09-21 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs XaWdaverde, XAis ErWesME (Active) worked on 2023-09-22 15:20:05, previous time: 2023-09-22 09:59:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-12 15:00:34, previous time: 2023-09-12 10:40:27
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-13 15:00:50, previous time: 2023-09-13 10:40:43
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-14 15:00:17, previous time: 2023-09-14 10:30:12
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-15 15:00:49, previous time: 2023-09-15 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-16 15:30:17, previous time: 2023-09-16 10:40:00
+Condition: More than 14 hours in a single shift
+Details: XariEs, Cesar GiEvaWWi (Active) worked starting from 2023-09-16 15:30:17 to 2023-09-18 09:55:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-16 15:30:17 to 2023-09-18 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-18 15:12:00, previous time: 2023-09-18 09:55:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-18 09:55:00 to 2023-09-18 15:12:00
+Condition: More than 14 hours in a single shift
+Details: XariEs, Cesar GiEvaWWi (Active) worked starting from 2023-09-18 15:12:00 to 2023-09-19 10:33:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-18 15:12:00 to 2023-09-19 10:33:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-19 15:30:17, previous time: 2023-09-19 10:33:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-19 10:33:00 to 2023-09-19 15:30:17
+Condition: More than 14 hours in a single shift
+Details: XariEs, Cesar GiEvaWWi (Active) worked starting from 2023-09-19 15:30:17 to 2023-09-20 10:30:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-19 15:30:17 to 2023-09-20 10:30:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-20 15:30:00, previous time: 2023-09-20 10:30:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-20 10:30:00 to 2023-09-20 15:30:00
+Condition: More than 14 hours in a single shift
+Details: XariEs, Cesar GiEvaWWi (Active) worked starting from 2023-09-20 15:30:00 to 2023-09-21 10:40:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-20 15:30:00 to 2023-09-21 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-21 16:00:00, previous time: 2023-09-21 10:40:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-21 10:40:00 to 2023-09-21 16:00:00
+Condition: More than 14 hours in a single shift
+Details: XariEs, Cesar GiEvaWWi (Active) worked starting from 2023-09-21 16:00:00 to 2023-09-22 10:40:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-21 16:00:00 to 2023-09-22 10:40:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XariEs, Cesar GiEvaWWi (Active) worked on 2023-09-22 15:05:49, previous time: 2023-09-22 10:40:00
+Condition: 7 consecutive days
+Details: XariEs, Cesar GiEvaWWi (Active) worked from 2023-09-22 10:40:00 to 2023-09-22 15:05:49
+Condition: More than 14 hours in a single shift
+Details: Xee, XaCar (Active) worked starting from 2023-09-22 15:05:49 to 2023-09-10 05:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-22 15:05:49 to 2023-09-10 05:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-10 10:00:00, previous time: 2023-09-10 05:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-10 05:55:00 to 2023-09-10 10:00:00
+Condition: More than 14 hours in a single shift
+Details: Xee, XaCar (Active) worked starting from 2023-09-10 10:00:00 to 2023-09-11 05:55:56
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-10 10:00:00 to 2023-09-11 05:55:56
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-11 10:00:00, previous time: 2023-09-11 05:55:56
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-11 05:55:56 to 2023-09-11 10:00:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-11 10:00:00 to 2023-09-12 00:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-12 05:00:00, previous time: 2023-09-12 00:00:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-12 00:00:00 to 2023-09-12 05:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-12 10:00:00, previous time: 2023-09-12 05:00:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-12 05:00:00 to 2023-09-12 10:00:00
+Condition: More than 14 hours in a single shift
+Details: Xee, XaCar (Active) worked starting from 2023-09-12 10:00:00 to 2023-09-13 01:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-12 10:00:00 to 2023-09-13 01:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-13 06:00:00, previous time: 2023-09-13 01:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-13 01:55:00 to 2023-09-13 06:00:00
+Condition: More than 14 hours in a single shift
+Details: Xee, XaCar (Active) worked starting from 2023-09-13 06:00:00 to 2023-09-14 05:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-13 06:00:00 to 2023-09-14 05:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-14 10:00:00, previous time: 2023-09-14 05:55:00
+Condition: 7 consecutive days
+Details: Xee, XaCar (Active) worked from 2023-09-14 05:55:00 to 2023-09-14 10:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-17 10:00:00, previous time: 2023-09-17 06:14:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-18 09:00:00, previous time: 2023-09-18 05:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-19 04:00:00, previous time: 2023-09-18 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-19 09:00:00, previous time: 2023-09-19 04:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-20 04:00:00, previous time: 2023-09-19 23:00:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: Xee, XaCar (Active) worked on 2023-09-21 09:00:00, previous time: 2023-09-21 04:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-10 15:00:07, previous time: 2023-09-10 10:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-12 15:00:31, previous time: 2023-09-12 10:08:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-14 15:00:57, previous time: 2023-09-14 10:26:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-16 15:30:24, previous time: 2023-09-16 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-17 15:00:18, previous time: 2023-09-17 10:12:14
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-19 15:30:00, previous time: 2023-09-19 10:40:00
+Condition: More than 14 hours in a single shift
+Details: XiWW, JAsMiW (Active) worked starting from 2023-09-19 15:30:00 to 2023-09-21 09:55:00
+Condition: 7 consecutive days
+Details: XiWW, JAsMiW (Active) worked from 2023-09-19 15:30:00 to 2023-09-21 09:55:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: XiWW, JAsMiW (Active) worked on 2023-09-21 15:20:44, previous time: 2023-09-21 09:55:00
+Condition: 7 consecutive days
+Details: XiWW, JAsMiW (Active) worked from 2023-09-21 09:55:00 to 2023-09-21 15:20:44
+Condition: More than 14 hours in a single shift
+Details: XiWW, JAsMiW (Active) worked starting from 2023-09-21 15:20:44 to 2023-09-23 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-12 15:00:58, previous time: 2023-09-12 10:12:00
+Condition: More than 14 hours in a single shift
+Details: ZaCEra, CigAeX (Active) worked starting from 2023-09-12 15:00:58 to 2023-09-13 10:12:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-13 15:00:17, previous time: 2023-09-13 10:12:00
+Condition: More than 14 hours in a single shift
+Details: ZaCEra, CigAeX (Active) worked starting from 2023-09-13 15:00:17 to 2023-09-14 10:11:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-14 15:00:54, previous time: 2023-09-14 10:11:00
+Condition: More than 14 hours in a single shift
+Details: ZaCEra, CigAeX (Active) worked starting from 2023-09-14 15:00:54 to 2023-09-15 10:17:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-15 15:00:25, previous time: 2023-09-15 10:17:00
+Condition: More than 14 hours in a single shift
+Details: ZaCEra, CigAeX (Active) worked starting from 2023-09-15 15:00:25 to 2023-09-16 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-16 15:00:32, previous time: 2023-09-16 09:57:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-19 15:00:01, previous time: 2023-09-19 10:04:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-20 15:30:25, previous time: 2023-09-20 10:10:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-21 15:25:22, previous time: 2023-09-21 10:03:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, CigAeX (Active) worked on 2023-09-22 15:25:10, previous time: 2023-09-22 09:58:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, Edward (Active) worked on 2023-09-10 15:00:18, previous time: 2023-09-10 10:52:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, Edward (Active) worked on 2023-09-13 16:13:00, previous time: 2023-09-13 10:46:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, Edward (Active) worked on 2023-09-15 14:30:43, previous time: 2023-09-15 10:50:38
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, Edward (Active) worked on 2023-09-17 15:30:00, previous time: 2023-09-17 10:41:00
+Condition: Less than 10 hours between shifts but greater than 1 hour
+Details: ZaCEra, Edward (Active) worked on 2023-09-20 16:00:00, previous time: 2023-09-20 10:40:00
